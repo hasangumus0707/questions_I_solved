@@ -1,5 +1,4 @@
-/*Dört basamaklı sayıyı yazıya çevirme
-KODU KOMPLE SİLİP TEKRAR DENE*/
+/*Dört basamaklı sayıyı yazıya çevirme */
 
 #include <stdio.h>
 #include <stdlib.h>

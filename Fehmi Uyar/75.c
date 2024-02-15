@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*Dizi Değerlerini Küçükten Büyüğe Sıralama Yaptım ama soruyu yanlış anlamışım*/
+/*Dizi Değerlerini Küçükten Büyüğe Sıralama Yaptım */
  int main(){
 
     int i,Array[5],max,min;
